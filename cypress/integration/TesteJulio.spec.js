@@ -2,7 +2,7 @@
 
 describe('Testes pessoais Julio', function() {
     beforeEach(function(){
-        cy.visit('https://google.com/')
+        cy.visit('https://globo.com/')
         //cy.visit('https://qastage.buildbox.one/18/cadastro/')
         //cy.get('[data-cy="button-btn-enroll"]').click()
     })
